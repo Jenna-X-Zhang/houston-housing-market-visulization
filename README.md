@@ -1,3 +1,6 @@
 # houston-housing-market-visulization
 
-The data source is [Realtor](https://www.realtor.com/research/data/).
+The data source is [Realtor](https://www.realtor.com/research/data/). 
+
+The data comes from different levels. Since I am now working on the project of Houston, I focus on the "zip data", which is the historical data of the median home prices on the neighborhood level. 
+
